@@ -16,3 +16,13 @@ This dataset is about past loans. The **Loan_train.csv** data set includes detai
 | Age            | Age of applicant                                                                      |
 | Education      | Education of applicant                                                                |
 | Gender         | The gender of applicant                                                               |
+
+
+
+The results is reported as the accuracy of each classifier, using the following metrics:
+
+Jaccard index
+
+F1-score
+
+LogLoass
