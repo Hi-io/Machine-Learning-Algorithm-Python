@@ -28,7 +28,7 @@ You should use the following algorithm:
 *   Support Vector Machine
 *   Logistic Regression
 
-\__ Notice:\__
+#### Notice:
 
 *   Can go above and change the pre-processing, feature selection, feature-extraction, and so on, to make a better model.
 *   Should use either scikit-learn, Scipy or Numpy libraries for developing the classification algorithms.
@@ -37,9 +37,9 @@ You should use the following algorithm:
 
 The results is reported as the accuracy of each classifier, using the following metrics:
 
-** Jaccard index
+* Jaccard index
 
-** F1-score
+* F1-score
 
-** LogLoass
+* LogLoass
 
